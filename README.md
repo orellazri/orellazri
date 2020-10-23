@@ -4,7 +4,7 @@
 
 I am a second year software engineering student at Jerusalem College of Engineering. I love building applications, discussing ideas and exploring new technologies. You can contact me by [email](mailto:ryiseld@gmail.com).
 
-## ⚡ I use
+## ⚡ What I Use
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
