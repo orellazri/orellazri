@@ -5,14 +5,15 @@
 I am a second year software engineering student at Jerusalem College of Engineering. I love building applications, discussing ideas and exploring new technologies.
 
 ## ⚡ What I Use
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/-Python-FFD753?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=Node.js)
+![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7003F?style=for-the-badge&logo=javascript)
+![NodeJS](https://img.shields.io/badge/-NodeJS-305C2B?style=for-the-badge&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-252B2F?style=for-the-badge&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
