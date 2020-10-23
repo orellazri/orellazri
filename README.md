@@ -22,9 +22,7 @@ I am a second year software engineering student at Jerusalem College of Engineer
 ![C++](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
 ![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-black?style=for-the-badge)
 
-<br>
 <hr>
-<br>
 <h5>
     <code>
         <a href="https://www.linkedin.com/in/orel-lazri/" title="LinkedIn">
