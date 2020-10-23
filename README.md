@@ -19,7 +19,7 @@ I am a second year software engineering student at Jerusalem College of Engineer
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-## 👩‍🎓 Currently Learning
+## 🎓 Currently Learning
 ![C++](https://img.shields.io/badge/-C%20&%20C++-black?style=for-the-badge&logo=C)
 ![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-black?style=for-the-badge)
 
