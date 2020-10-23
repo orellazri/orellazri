@@ -25,7 +25,6 @@ I am a second year software engineering student at Jerusalem College of Engineer
 <br>
 <hr>
 <br>
-
 <h5>
     <code>
         <a href="https://www.linkedin.com/in/orel-lazri/" title="LinkedIn">
@@ -34,7 +33,7 @@ I am a second year software engineering student at Jerusalem College of Engineer
     </code>
     <code>
         <a href="https://tryhackme.com/p/Reaperberri" title="TryHackMe">
-            <img src="etc/tryhackme.svg" width="30"> TryHackMe
+            <img src="etc/tryhackme.png" width="30"> TryHackMe
         </a>
     </code>
 </h5>
