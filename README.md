@@ -30,9 +30,4 @@ I am a second year software engineering student at Jerusalem College of Engineer
             <img src="etc/linkedin.svg" width="22"> LinkedIn
         </a>
     </code>
-    <code>
-        <a href="https://tryhackme.com/p/Reaperberri" title="TryHackMe">
-            <img src="etc/tryhackme.png" width="30"> TryHackMe
-        </a>
-    </code>
 </h5>
