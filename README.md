@@ -17,5 +17,4 @@ I am a second year software engineering student at Jerusalem College of Engineer
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-252B2F?style=for-the-badge&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![C++](https://img.shields.io/badge/-C%20&%20C++-black?style=for-the-badge&logo=C)
