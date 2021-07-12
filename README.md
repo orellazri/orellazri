@@ -12,6 +12,7 @@ I am a software engineering student. I love building applications, discussing id
 ![NodeJS](https://img.shields.io/badge/-NodeJS-305C2B?style=for-the-badge&logo=Node.js)
 ![Vue](https://img.shields.io/badge/-Vue-339229?style=for-the-badge&logo=Vue.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-C58E28?style=for-the-badge&logo=Firebase)
+![Ansible](https://img.shields.io/badge/-Ansible-black?style=for-the-badge&logo=Ansible)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
