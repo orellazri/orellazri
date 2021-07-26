@@ -19,3 +19,4 @@ I am a software engineering student. I love building applications, discussing id
 ![SQL](https://img.shields.io/badge/-SQL-252B2F?style=for-the-badge&logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 ![C++](https://img.shields.io/badge/-C%20&%20C++-black?style=for-the-badge&logo=C)
+![Rust](https://img.shields.io/badge/-Rust-grey?style=for-the-badge&logo=Rust)
