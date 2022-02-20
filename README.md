@@ -5,10 +5,24 @@
 I study software engineering by day and work as a DevOps Engineer by night. I love building applications, discussing ideas and exploring new technologies.
 
 ## What I Use ⚡
-<!--
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
--->
 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+<code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/c/c-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+
+<!--
 ![Python](https://img.shields.io/badge/-Python-FFD753?style=for-the-badge&logo=Python)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-305C2B?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-1c406e?style=for-the-badge&logo=React)
@@ -23,3 +37,4 @@ I study software engineering by day and work as a DevOps Engineer by night. I lo
 ![Docker](https://img.shields.io/badge/-Docker-0b679e?style=for-the-badge&logo=Docker)
 ![Chef](https://img.shields.io/badge/-Chef-faddad?style=for-the-badge&logo=Chef)
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=for-the-badge&logo=Ansible)
+-->
