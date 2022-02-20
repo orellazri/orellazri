@@ -23,6 +23,7 @@ I study software engineering and work as a DevOps Engineer. I love building appl
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 
 <!--
 ![Python](https://img.shields.io/badge/-Python-FFD753?style=for-the-badge&logo=Python)
