@@ -29,20 +29,20 @@ I study software engineering and work as a DevOps Engineer. I love building appl
 -->
 
 
-<code>![Python](https://img.shields.io/badge/-Python-FFD753?style=for-the-badge&logo=Python)</code>
-<code>![NodeJS](https://img.shields.io/badge/-NodeJS-305C2B?style=for-the-badge&logo=Node.js)</code>
-<code>![React](https://img.shields.io/badge/-React-1c406e?style=for-the-badge&logo=React)</code>
-<code>![Vue](https://img.shields.io/badge/-Vue-339229?style=for-the-badge&logo=Vue.js)</code>
-<code>![Firebase](https://img.shields.io/badge/-Firebase-C58E28?style=for-the-badge&logo=Firebase)</code>
-<code>![C++](https://img.shields.io/badge/-C%20&%20C++-3c484f?style=for-the-badge&logo=C)</code>
-<code>![Go](https://img.shields.io/badge/-Go-c6f0f7?style=for-the-badge&logo=Go)</code>
-<code>![Rust](https://img.shields.io/badge/-Rust-grey?style=for-the-badge&logo=Rust)</code>
-<code>![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=php)</code>
-<code>![Java](https://img.shields.io/badge/-Java-E34A86?style=for-the-badge&logo=java)</code>
-<code>![SQL](https://img.shields.io/badge/-SQL-ebdf9d?style=for-the-badge&logo=postgresql)</code>
-<code>![NoSQL](https://img.shields.io/badge/-NoSQL-c1ed76?style=for-the-badge&logo=mongodb)</code>
-<code>![Docker](https://img.shields.io/badge/-Docker-0b679e?style=for-the-badge&logo=Docker)</code>
-<code>![Chef](https://img.shields.io/badge/-Chef-faddad?style=for-the-badge&logo=Chef)</code>
-<code>![Ansible](https://img.shields.io/badge/-Ansible-black?style=for-the-badge&logo=Ansible)</code>
-<code>![Jenkins](https://img.shields.io/badge/-Jenkins-152630?style=for-the-badge&logo=Jenkins)</code>
-<code>![Linux](https://img.shields.io/badge/-Linux-473c38?style=for-the-badge&logo=Linux)</code>
+<code>![Python](https://img.shields.io/badge/-Python-FFD753?style=flate&logo=Python)</code>
+<code>![NodeJS](https://img.shields.io/badge/-NodeJS-305C2B?style=flate&logo=Node.js)</code>
+<code>![React](https://img.shields.io/badge/-React-1c406e?style=flate&logo=React)</code>
+<code>![Vue](https://img.shields.io/badge/-Vue-339229?style=flate&logo=Vue.js)</code>
+<code>![Firebase](https://img.shields.io/badge/-Firebase-C58E28?style=flate&logo=Firebase)</code>
+<code>![C++](https://img.shields.io/badge/-C%20&%20C++-3c484f?style=flate&logo=C)</code>
+<code>![Go](https://img.shields.io/badge/-Go-c6f0f7?style=flate&logo=Go)</code>
+<code>![Rust](https://img.shields.io/badge/-Rust-grey?style=flate&logo=Rust)</code>
+<code>![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flate&logo=php)</code>
+<code>![Java](https://img.shields.io/badge/-Java-E34A86?style=flate&logo=java)</code>
+<code>![SQL](https://img.shields.io/badge/-SQL-ebdf9d?style=flate&logo=postgresql)</code>
+<code>![NoSQL](https://img.shields.io/badge/-NoSQL-c1ed76?style=flate&logo=mongodb)</code>
+<code>![Docker](https://img.shields.io/badge/-Docker-0b679e?style=flate&logo=Docker)</code>
+<code>![Chef](https://img.shields.io/badge/-Chef-faddad?style=flate&logo=Chef)</code>
+<code>![Ansible](https://img.shields.io/badge/-Ansible-black?style=flate&logo=Ansible)</code>
+<code>![Jenkins](https://img.shields.io/badge/-Jenkins-152630?style=flate&logo=Jenkins)</code>
+<code>![Linux](https://img.shields.io/badge/-Linux-473c38?style=flate&logo=Linux)</code>
