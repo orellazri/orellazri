@@ -4,6 +4,8 @@
 
 I study software engineering by day and work as a DevOps Engineer by night. I love building applications, discussing ideas and exploring new technologies.
 
+<br />
+
 ## What I Use ⚡
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
