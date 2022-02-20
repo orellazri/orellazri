@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="50%">
 
-I study software engineering by day and work as a DevOps Engineer by night. I love building applications, discussing ideas and exploring new technologies.
+I study software engineering and work as a DevOps Engineer. I love building applications, discussing ideas and exploring new technologies.
 
 <br />
 
