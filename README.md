@@ -31,7 +31,7 @@ I study software engineering and work as a DevOps Engineer. I love building appl
 
 <code>![Python](https://img.shields.io/badge/-Python-FFD753?style=flate&logo=Python)</code>
 <code>![NodeJS](https://img.shields.io/badge/-NodeJS-305C2B?style=flate&logo=Node.js)</code>
-<code>![React](https://img.shields.io/badge/-React-1c406e?style=flate&logo=React)</code>
+<code>![React](https://img.shields.io/badge/-React/RN-1c406e?style=flate&logo=React)</code>
 <code>![Vue](https://img.shields.io/badge/-Vue-339229?style=flate&logo=Vue.js)</code>
 <code>![Firebase](https://img.shields.io/badge/-Firebase-C58E28?style=flate&logo=Firebase)</code>
 <code>![C++](https://img.shields.io/badge/-C%20&%20C++-3c484f?style=flate&logo=C)</code>
