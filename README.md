@@ -31,14 +31,14 @@ I study software engineering and work as a DevOps Engineer. I love building appl
 
 <code>![Python](https://img.shields.io/badge/-Python-FFD753?style=flate&logo=Python)</code>
 <code>![NodeJS](https://img.shields.io/badge/-NodeJS-305C2B?style=flate&logo=Node.js)</code>
-<code>![React](https://img.shields.io/badge/-React/RN-1c406e?style=flate&logo=React)</code>
-<code>![Vue](https://img.shields.io/badge/-Vue-339229?style=flate&logo=Vue.js)</code>
-<code>![Firebase](https://img.shields.io/badge/-Firebase-C58E28?style=flate&logo=Firebase)</code>
+<code>![React](https://img.shields.io/badge/-React/Native-1c406e?style=flate&logo=React)</code>
+<code>![Vue](https://img.shields.io/badge/-Vue.js-339229?style=flate&logo=Vue.js)</code>
 <code>![C++](https://img.shields.io/badge/-C%20&%20C++-3c484f?style=flate&logo=C)</code>
 <code>![Go](https://img.shields.io/badge/-Go-c6f0f7?style=flate&logo=Go)</code>
 <code>![Rust](https://img.shields.io/badge/-Rust-grey?style=flate&logo=Rust)</code>
-<code>![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flate&logo=php)</code>
 <code>![Java](https://img.shields.io/badge/-Java-E34A86?style=flate&logo=java)</code>
+<code>![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flate&logo=php)</code>
+<code>![Firebase](https://img.shields.io/badge/-Firebase-C58E28?style=flate&logo=Firebase)</code>
 <code>![SQL](https://img.shields.io/badge/-SQL-ebdf9d?style=flate&logo=postgresql)</code>
 <code>![NoSQL](https://img.shields.io/badge/-NoSQL-c1ed76?style=flate&logo=mongodb)</code>
 <code>![Docker](https://img.shields.io/badge/-Docker-0b679e?style=flate&logo=Docker)</code>
