@@ -1,6 +1,6 @@
 ## Hi there, I'm Orel <img src="etc/wave.gif" height="25px">
 
-<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="50%">
+<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="80">
 
 I study software engineering and work as a DevOps Engineer. I love building applications, discussing ideas and exploring new technologies.
 
