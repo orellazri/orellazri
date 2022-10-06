@@ -1,10 +1,13 @@
-## Hi there, I'm Orel <img src="etc/wave.gif" height="25px" width="25px" />
-
-<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="50%">
-
-I love building applications, discussing ideas, and exploring new technologies.
+<h2 align="center">Hi there, I'm Orel <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28" /></h2>
 
 <br />
+
+I love building applications, discussing ideas, and exploring new technologies. I also spend too much time on my [homelab](https://www.reddit.com/r/homelab).
+
+<br />
+
+<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="35%">
 
 ## What I Use ⚡
 
