@@ -23,6 +23,7 @@ I love building applications, discussing ideas, and exploring new technologies. 
 ![Firebase](https://img.shields.io/badge/-Firebase-C58E28?style=flat-square&logo=Firebase)
 ![SQL](https://img.shields.io/badge/-SQL-ebdf9d?style=flat-square&logo=postgresql)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-c1ed76?style=flat-square&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-DE33A6?style=flat-square&logo=graphql)
 ![Docker](https://img.shields.io/badge/-Docker-0b679e?style=flat-square&logo=Docker)
 ![Chef](https://img.shields.io/badge/-Chef-faddad?style=flat-square&logo=Chef)
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=Ansible)
