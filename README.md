@@ -2,10 +2,14 @@
 
 <br />
 
+<div>
+  
 I love building applications, discussing ideas, and exploring new technologies. I also spend too much time on my [homelab](https://www.reddit.com/r/homelab).
 <br />
 
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="35%">
+  
+</div>
 
 **🛠️ My tech stack**
 
