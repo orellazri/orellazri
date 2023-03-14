@@ -5,7 +5,7 @@
 I love building applications, discussing ideas, and exploring new technologies. I also spend too much time on my [homelab](https://www.reddit.com/r/homelab).
 <br />
 
-**🛠️ My tech stack**
+<h4>🛠️ My tech stack</h4>
 
 | **Category** | **Technologies** |
 | - | - |
