@@ -1,7 +1,13 @@
-<h3>Hi! I'm Orel 👋</h3>
-  
-I love building applications, discussing ideas, and exploring new technologies. I also spend too much time on my [homelab](https://www.reddit.com/r/homelab).
-<br />
+<h3>👋 Hi there!</h3>
+
+My name is Orel Lazri. I'm currently working as a DevOps Engineer at Intel. You will most likely hear me talking about:
+<ul>
+  <li>🌐 Open source software</li>
+  <li>🐧 Linux</li>
+  <li>🔬 Homelabs</li>
+  <li>⚡ New technologies</li>
+  <li>🐒 Arctic Monkeys</li>
+</ul>
 
 <h3>🛠️ My tech stack</h3>
 
