@@ -1,4 +1,4 @@
-👋 Hello! I'm Orel
+<h3>Hi! I'm Orel 👋</h3>
 <br />
   
 I love building applications, discussing ideas, and exploring new technologies. I also spend too much time on my [homelab](https://www.reddit.com/r/homelab).
