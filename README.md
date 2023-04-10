@@ -1,5 +1,4 @@
-<h2 align="center">👋 Hello! I'm Orel</h2>
-
+👋 Hello! I'm Orel
 <br />
   
 I love building applications, discussing ideas, and exploring new technologies. I also spend too much time on my [homelab](https://www.reddit.com/r/homelab).
@@ -63,4 +62,4 @@ I love building applications, discussing ideas, and exploring new technologies. 
   </tbody>
 </table>
 
-<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="35%">
+<!-- <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="35%"> -->
