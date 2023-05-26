@@ -50,6 +50,7 @@ My name is Orel. I'm currently working as a DevOps Engineer at Intel. You will m
         <img src="https://img.shields.io/badge/-Jenkins-152630?style=flat-square&logo=Jenkins" />
         <img src="https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF&style=flat-square" />
         <img src="https://img.shields.io/badge/-Chef-faddad?style=flat-square&logo=Chef" />
+        <img src="https://img.shields.io/badge/-Nix-97c6e6?style=flat-square&logo=NixOS" />
         <img src="https://img.shields.io/badge/-Cloud-B87620?style=flat-square&logo=amazonaws" />
       </td>
     </tr>
