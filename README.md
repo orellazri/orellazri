@@ -49,6 +49,7 @@ My name is Orel. You will most likely hear me talking about:
       <td>
         <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF&style=flat-square" />
         <img src="https://img.shields.io/static/v1?label=&message=Kubernetes&color=4182b4&logo=kubernetes&logoColor=FFFFFF&style=flat-square" />
+        <img src="https://img.shields.io/static/v1?label=&message=Terraform&color=844FBA&logo=terraform&logoColor=FFFFFF&style=flat-square" />
         <img src="https://img.shields.io/badge/-Jenkins-152630?style=flat-square&logo=Jenkins" />
         <img src="https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF&style=flat-square" />
         <img src="https://img.shields.io/badge/-Chef-faddad?style=flat-square&logo=Chef" />
