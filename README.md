@@ -24,7 +24,7 @@ My name is Orel. You will most likely hear me talking about:
         <img src ="https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF&style=flat-square" />
         <img src ="https://img.shields.io/badge/-C%20&%20C++-3c484f?style=flat-square&logo=C" />
         <img src ="https://img.shields.io/static/v1?label=&message=Java&color=B8894D&logo=java&logoColor=FFFFFF&style=flat-square" />
-        <img src ="https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF&style=flat-square" />
+        <img src ="https://img.shields.io/static/v1?label=&message=Ruby&color=c21d4c&logo=ruby&logoColor=FFFFFF&style=flat-square" />
       </td>
     </tr>
     <tr>
