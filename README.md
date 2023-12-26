@@ -28,6 +28,20 @@ My name is Orel. You will most likely hear me talking about:
       </td>
     </tr>
     <tr>
+      <td><b>DevOps</b></td>
+      <td>
+        <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF&style=flat-square" />
+        <img src="https://img.shields.io/static/v1?label=&message=Kubernetes&color=4182b4&logo=kubernetes&logoColor=FFFFFF&style=flat-square" />
+        <img src="https://img.shields.io/static/v1?label=&message=Terraform&color=844FBA&logo=terraform&logoColor=FFFFFF&style=flat-square" />
+        <img src="https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF&style=flat-square" />
+        <img src="https://img.shields.io/badge/-ArgoCD-96dbd7?style=flat-square&logo=Argo" />
+        <img src="https://img.shields.io/badge/-Jenkins-152630?style=flat-square&logo=Jenkins" />
+        <img src="https://img.shields.io/badge/-Chef-faddad?style=flat-square&logo=Chef" />
+        <img src="https://img.shields.io/badge/-Nix-97c6e6?style=flat-square&logo=NixOS" />
+        <img src="https://img.shields.io/badge/-Cloud-B87620?style=flat-square&logo=amazonaws" />
+      </td>
+    </tr>
+    <tr>
       <td><b>Frontend</b></td>
       <td>
         <img src="https://img.shields.io/badge/-Next.js-2f2f2f?style=flat-square&logo=Next.js" />
@@ -43,20 +57,6 @@ My name is Orel. You will most likely hear me talking about:
         <img src="https://img.shields.io/badge/-Flutter-55C0F0?style=flat-square&logo=Flutter" />
         <img src="https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=kotlin&logoColor=FFFFFF&style=flat-square" />
         <img src="https://img.shields.io/static/v1?label=&message=Swift&color=F05138&logo=swift&logoColor=FFFFFF&style=flat-square" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>DevOps</b></td>
-      <td>
-        <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF&style=flat-square" />
-        <img src="https://img.shields.io/static/v1?label=&message=Kubernetes&color=4182b4&logo=kubernetes&logoColor=FFFFFF&style=flat-square" />
-        <img src="https://img.shields.io/static/v1?label=&message=Terraform&color=844FBA&logo=terraform&logoColor=FFFFFF&style=flat-square" />
-        <img src="https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF&style=flat-square" />
-        <img src="https://img.shields.io/badge/-ArgoCD-96dbd7?style=flat-square&logo=Argo" />
-        <img src="https://img.shields.io/badge/-Jenkins-152630?style=flat-square&logo=Jenkins" />
-        <img src="https://img.shields.io/badge/-Chef-faddad?style=flat-square&logo=Chef" />
-        <img src="https://img.shields.io/badge/-Nix-97c6e6?style=flat-square&logo=NixOS" />
-        <img src="https://img.shields.io/badge/-Cloud-B87620?style=flat-square&logo=amazonaws" />
       </td>
     </tr>
     <tr>
