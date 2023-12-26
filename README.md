@@ -64,10 +64,10 @@ My name is Orel. You will most likely hear me talking about:
       <td>
         <img src="https://img.shields.io/static/v1?label=&message=Linux&color=F8F655&logo=linux&logoColor=000000&style=flat-square" />
         <img src="https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF&style=flat-square" />
-        <img src="https://img.shields.io/badge/-Firebase-C58E28?style=flat-square&logo=Firebase" />
         <img src="https://img.shields.io/badge/-SQL-ebdf9d?style=flat-square&logo=postgresql" />
         <img src="https://img.shields.io/badge/-NoSQL-c1ed76?style=flat-square&logo=mongodb" />
         <img src="https://img.shields.io/badge/-GraphQL-DE33A6?style=flat-square&logo=graphql" />
+        <img src="https://img.shields.io/badge/-Firebase-C58E28?style=flat-square&logo=Firebase" />
       </td>
     </tr>
   </tbody>
