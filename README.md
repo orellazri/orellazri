@@ -18,10 +18,10 @@ My name is Orel. You will most likely hear me talking about:
     <tr>
       <td><b>Core</b></td>
       <td>
-        <img src="https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF&style=flat-square" />
         <img src="https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF&style=flat-square" />
         <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF&style=flat-square" />
         <img src ="https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF&style=flat-square" />
+        <img src="https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF&style=flat-square" />
         <img src ="https://img.shields.io/badge/-C%20&%20C++-3c484f?style=flat-square&logo=C" />
         <img src ="https://img.shields.io/static/v1?label=&message=Java&color=B8894D&logo=openjdk&logoColor=FFFFFF&style=flat-square" />
         <img src ="https://img.shields.io/static/v1?label=&message=Ruby&color=c21d4c&logo=ruby&logoColor=FFFFFF&style=flat-square" />
