@@ -35,6 +35,7 @@ My name is Orel. You will most likely hear me talking about:
         <img src="https://img.shields.io/static/v1?label=&message=Terraform&color=844FBA&logo=terraform&logoColor=FFFFFF&style=flat-square" />
         <img src="https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF&style=flat-square" />
         <img src="https://img.shields.io/badge/-Argo CD-96dbd7?style=flat-square&logo=Argo" />
+        <img src="https://img.shields.io/badge/-Helm-332d57?style=flat-square&logo=Helm" />
         <img src="https://img.shields.io/badge/-Jenkins-152630?style=flat-square&logo=Jenkins" />
         <img src="https://img.shields.io/badge/-Chef-faddad?style=flat-square&logo=Chef" />
         <img src="https://img.shields.io/badge/-Nix-97c6e6?style=flat-square&logo=NixOS" />
