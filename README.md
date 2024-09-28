@@ -46,7 +46,6 @@ My name is Orel. You will most likely hear me talking about:
       <td><b>Frontend</b></td>
       <td>
         <img src="https://img.shields.io/badge/-React-1c406e?style=flat-square&logo=React" />
-        <img src="https://img.shields.io/badge/-Vue.js-339229?style=flat-square&logo=Vue.js" />
         <img src="https://img.shields.io/badge/-Svelte-FCB817?style=flat-square&logo=svelte" />
       </td>
     </tr>
