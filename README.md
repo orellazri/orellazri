@@ -55,7 +55,6 @@ My name is Orel. You will most likely hear me talking about:
         <img src="https://img.shields.io/badge/-React%20Native-1c406e?style=flat-square&logo=React" />
         <img src="https://img.shields.io/badge/-Flutter-55C0F0?style=flat-square&logo=Flutter" />
         <img src="https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=kotlin&logoColor=FFFFFF&style=flat-square" />
-        <img src="https://img.shields.io/static/v1?label=&message=Swift&color=F05138&logo=swift&logoColor=FFFFFF&style=flat-square" />
       </td>
     </tr>
     <tr>
