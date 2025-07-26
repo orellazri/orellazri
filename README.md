@@ -8,6 +8,7 @@ My name is Orel. You will most likely hear me talking about:
   <li>🐧 Linux</li>
   <li>🔬 Homelabs</li>
   <li>⚡ New technologies</li>
+  <li>☕ Specialty Coffee</li>
   <li>🐒 Arctic Monkeys</li>
 </ul>
 
